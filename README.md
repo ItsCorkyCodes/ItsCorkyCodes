@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python with Angela Yu 
 - 📫 How to reach me: "itscorkycreates" on discord.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I LOVE pandas. 
+- ⚡ Fun fact: I LOVE frogs. 
 
 <!---
 ItsCorkyCodes/ItsCorkyCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
